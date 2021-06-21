@@ -1,4 +1,4 @@
 - Profile
-- Nama  : Fathurrohman
-- NIM   : 123190052
+- Nama  : Abigail Rakha Bhagaskara
+- NIM   : 123190144
 - Kelas : B
